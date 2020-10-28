@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10a348c9.chunk.css",
+    "main.js": "/static/js/main.9546ac90.chunk.js",
+    "main.js.map": "/static/js/main.9546ac90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f64e59ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f64e59ee.js.map",
+    "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
+    "static/js/2.bfc1a440.chunk.js": "/static/js/2.bfc1a440.chunk.js",
+    "static/js/2.bfc1a440.chunk.js.map": "/static/js/2.bfc1a440.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef70a2eafbd55df535676a2655504ba1.js": "/precache-manifest.ef70a2eafbd55df535676a2655504ba1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.10a348c9.chunk.css.map": "/static/css/main.10a348c9.chunk.css.map",
+    "static/js/2.bfc1a440.chunk.js.LICENSE.txt": "/static/js/2.bfc1a440.chunk.js.LICENSE.txt",
+    "static/media/PCAP (Certified Associate in Python Programming).png": "/static/media/PCAP (Certified Associate in Python Programming).3c565631.png",
+    "static/media/index.css": "/static/media/web.ff83a602.jpg",
+    "static/media/man.svg": "/static/media/man.52be3144.svg",
+    "static/media/ui.svg": "/static/media/ui.72bae9c4.svg",
+    "static/media/web.svg": "/static/media/web.617d0d45.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f64e59ee.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.bfc1a440.chunk.js",
+    "static/css/main.10a348c9.chunk.css",
+    "static/js/main.9546ac90.chunk.js"
+  ]
+}
